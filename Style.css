@@ -1,0 +1,13 @@
+header {width:inherit;; height:175px; background-color:black;}
+
+#container{
+  width: inherit;
+  background-image: url("http://nodejs.org/static/images/interactive/background.jpg");
+}
+#logo{
+  width: 50%;
+  height: auto;
+  background-image: url();
+}
+
+body {text-align: center;}
